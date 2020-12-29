@@ -1,0 +1,16 @@
+> bash find_dealers_working_during_losses.sh 0310
+05:00:00 AM     Katey Bean      Billy Jones     Evalyn Howell
+08:00:00 AM     Rahima Figueroa Billy Jones     Madina Britton
+02:00:00 PM     Chyna Mercado   Billy Jones     Cleveland Hanna
+05:00:00 AM     Katey Bean      Billy Jones     Evalyn Howell
+08:00:00 AM     Rahima Figueroa Billy Jones     Madina Britton
+> bash find_dealers_working_during_losses.sh 0312
+05:00:00 AM	Katey Bean	Billy Jones	Evalyn Howell
+08:00:00 AM	Rahima Figueroa	Billy Jones	Madina Britton
+02:00:00 PM	Chyna Mercado	Billy Jones	Cleveland Hanna
+08:00:00 PM	Saima Mcdermott	Billy Jones	Katey Bean
+11:00:00 PM	Cleveland Hanna	Billy Jones	Rahima Figueroa
+> bash find_dealers_working_during_losses.sh 0315
+02:00:00 PM	Chyna Mercado	Billy Jones	Cleveland Hanna
+08:00:00 PM	Saima Mcdermott	Billy Jones	Katey Bean
+11:00:00 PM	Cleveland Hanna	Billy Jones	Rahima Figueroa
